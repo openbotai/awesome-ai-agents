@@ -42,13 +42,66 @@
 5. ReAct: [paper](https://arxiv.org/abs/2210.03629) | [code](https://github.com/ysymyth/ReAct)
 
 
+
 ## 2023
+1. MALLM: [paper](https://arxiv.org/abs/2301.04589)
+2. DEPS: [paper](https://arxiv.org/abs/2302.01560) | [code](https://github.com/CraftJarvis/MC-Planner)
+3. Toolformer: [paper](https://arxiv.org/abs/2302.04761) | [code](https://github.com/lucidrains/toolformer-pytorch)
+4. Reflexion: [paper](https://arxiv.org/abs/2303.11366) | [code](https://github.com/noahshinn024/reflexion)
+5. CAMEL: [paper](https://arxiv.org/abs/2303.17660) | [code](https://github.com/camel-ai/camel)
+6. API-Bank: [paper]() | [code]()
+7. ViperGPT: [paper]() | [code]()
+8. HuggingGPT
+9. Generative Agents
+10. LLM+P
+11. ChemCrow
+12. OpenAGI
+13. AutoGPT
+14. SCM
+15. Socially Alignment
+16. GITM
+17. Voyager
+18. Introspective Tips
+19. RET-LLM
+20. ChatDB
+21. S3
+22. ChatDev
+23. ToolLLM
+24. MemoryBank
+25. MetaGPT 
+
+
+
 
 
 
 
 
 # Frameworks
+
+### [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT)
+An experimental open-source attempt to make GPT-4 fully autonomous, with >140k stars on GitHub
+
+
+### MetaGPT
+
+### [CAMEL](https://github.com/camel-ai/camel)
+An agent architecture for “Mind” Exploration of Large Scale Language Model Society
+
+### OpenAGI
+
+
+### ChatDe
+### [Mini AGI](https://github.com/muellerberndt/mini-agi)
+A minimal general-purpose autonomous agent based on GPT-3.5 / GPT-4
+
+
+### [GPT Engineer](https://github.com/AntonOsika/gpt-engineer)
+An AI agent that generates an entire codebase based on a prompt
+
+
+### [SuperAGI](https://superagi.com/)
+An open-source autonomous AI framework to enable development and deployment autonomous agents
 
 
 # Applications
@@ -66,10 +119,6 @@ A platform for agents to work together, similar in spirit to AutoGPT and Baby AG
 ### [Aider](https://github.com/paul-gauthier/aider)
 
 A command line tool that lets you pair your program with GPT-3.5/GPT-4, to edit code stored in your local git repository
-
-### [AutoGPT](https://agpt.co/?utm_source=awesome-ai-agents)
-
-An experimental open-source attempt to make GPT-4 fully autonomous, with >140k stars on GitHub
 
 
 ### [Automata](https://github.com/emrgnt-cmplxty/automata)
@@ -111,10 +160,6 @@ An Autonomous AI Assistant designed to perform a wide range of practical tasks a
 ### [Bloop](https://bloop.ai/)
 A GPT-4 powered semantic code search engine that uses an AI agent
 
-
-### [Camel](https://github.com/camel-ai/camel)
-An agent architecture for “Mind” Exploration of Large Scale Language Model Society
-
 ### [ChemCrow](https://github.com/ur-whitelab/chemcrow-public)
 A chemistry agent that performs tasks across synthesis, drug discovery, and materials design
 
@@ -122,13 +167,10 @@ A chemistry agent that performs tasks across synthesis, drug discovery, and mate
 
 The purpose of Clippy is to develop code for or with the user. It can plan, write, debug, and test some projects autonomously. For harder tasks, the best way to use it is to look at its work and provide feedback to it.
 
-### [Cody by ajhous44](https://github.com/ajhous44/cody)
+### [Cody](https://github.com/ajhous44/cody)
 
 An AI assistant designed to let you interactively query your codebase using natural language. By utilizing vector embeddings, chunking, and OpenAI's language models, Cody can help you navigate through your code in an efficient and intuitive manner.
 
-### [Cody by Sourcegraph](https://docs.sourcegraph.com/cody)
-
-An AI code assistant from Sourcegraph that writes code and answers questions for you by reading your entire codebase and the code graph.
 
 ### [Databerry](https://www.databerry.ai/)
 A super-easy no-code platform for creating AI chatbots trained on your own data
@@ -153,9 +195,6 @@ A developer assistant able to make whole nodejs project with unlimited prompts
 
 ### [Godmode](https://godmode.space/)
 A project inspired by Auto-GPT and BabyAGI, conducting  various kinds of tasks via nice UI
-
-### [GPT Engineer](https://github.com/AntonOsika/gpt-engineer)
-An AI agent that generates an entire codebase based on a prompt
 
 
 ### [GPT Migrate](https://github.com/0xpayne/gpt-migrate)
@@ -185,9 +224,6 @@ Mentat is the AI tool that assists you with any coding task, right from your com
 Unlike Copilot, Mentat coordinates edits across multiple locations and files. And unlike ChatGPT, Mentat already has the context of your project - no copy and pasting required!
 
 
-### [Mini AGI](https://github.com/muellerberndt/mini-agi)
-A minimal general-purpose autonomous agent based on GPT-3.5 / GPT-4
-
 ### [Multi GPT](https://github.com/rumpfmax/Multi-GPT)
 An experimental open-source attempt to make GPT-4 fully autonomous
 
@@ -214,9 +250,6 @@ An open-source React.js Autonomous LLM Agent
 
 ### [Superagent](https://www.superagent.sh/)
 Not a single agent, but a tool that allows creating agents without coding
-
-### [SuperAGI](https://superagi.com/)
-An open-source autonomous AI framework to enable development and deployment autonomous agents
 
 ### [Sweep](https://sweep.dev/)
 A Github assistant the helps fix small bugs and implement small features
@@ -374,4 +407,6 @@ AutoGPT agents with plugins
 
 ### [Superluminal](https://superluminal.dev)
 Add an AI copilot to your product's data dashboard with just a few lines of code.
+
+
 
