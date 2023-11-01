@@ -9,6 +9,8 @@
 
 # Papers
 
+[AI Agents 论文共读](./readpaper/README.md)
+
 <table >
     <tr>
         <td rowspan='2'align='center'>Name</td>
