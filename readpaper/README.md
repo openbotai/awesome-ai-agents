@@ -9,15 +9,14 @@ readpaper共读小组链接： [加入小组](https://readpaper.com/team/invite/
 
 ## 阅读计划
 -  每周两篇
--  每周固定时间群里分享心得
+-  每周一晚上8点固定时间群里分享讨论
 
 
 ## 论文计划
 
-
 <table >
     <tr>
-        <td rowspan='2'align='center'>周数</td>
+        <td rowspan='2'align='center'>周 数</td>
         <td rowspan='2'align='center'>第一篇</td>        
         <td rowspan='2'align='center'>第二篇</td>
         <td rowspan='2'align='center'>截止时间</td>
@@ -78,6 +77,7 @@ readpaper共读小组链接： [加入小组](https://readpaper.com/team/invite/
         <td align='center'>2023.11.13</td>
     </tr>
 </table>
+
 
 
 
