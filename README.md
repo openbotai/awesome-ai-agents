@@ -9,29 +9,7 @@
 
 # Papers
 
-[AI Agents 论文共读](./readpaper/README.md)
-
-<table >
-    <tr>
-        <td rowspan='2'align='center'>Name</td>
-        <td rowspan='2'align='center'>Time</td>        
-        <td rowspan='2'align='center'>Paper</td>
-        <td rowspan='2'align='center'>Code</td>
-    </tr>
-    <tr>
-    <tr>
-        <td align='center'>WebGPT</td>
-        <td align='center'>12/2021</td>
-        <td align='center'><a href="https://arxiv.org/abs/2112.09332">Paper</a></td>
-        <td align='center'>-</td>
-    </tr>
-    <tr>
-        <td align='center'>SayCan</td>
-        <td align='center'>04/2022</td>
-        <td align='center'><a href="https://arxiv.org/abs/2204.01691">Paper</a></td>
-        <td align='center'><a href="https://say-can.github.io/">Code</a></td>
-    </tr>
-</table>
+[AI Agents 论文共读](./readpaper/)
 
 ## 2021 
 1. WebGPT: [paper](https://arxiv.org/abs/2112.09332)

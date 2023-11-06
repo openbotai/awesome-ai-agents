@@ -14,6 +14,75 @@ readpaper共读小组链接： [加入小组](https://readpaper.com/team/invite/
 
 ## 论文计划
 
+
+<table >
+    <tr>
+        <td rowspan='2'align='center'>周数</td>
+        <td rowspan='2'align='center'>第一篇</td>        
+        <td rowspan='2'align='center'>第二篇</td>
+        <td rowspan='2'align='center'>截止时间</td>
+    </tr>
+    <tr>
+    <tr>
+        <td align='center'>第一周</td>
+        <td align='center'><a href="https://arxiv.org/abs/2308.11432">A Survey on Large Language Model based Autonomous Agents</a></td>
+        <td align='center'><a href="https://arxiv.org/abs/2304.03442">Generative Agents: Interactive Simulacra of Human Behavior</a></td>
+        <td align='center'>2023.9.2</td>
+    </tr>
+    <tr>
+        <td align='center'>第二周</td>
+        <td align='center'><a href="https://arxiv.org/abs/2302.04761">Toolformer: Language Models Can Teach Themselves to Use Tools</a></td>
+        <td align='center'><a href="https://arxiv.org/abs/2303.17580">HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace</a></td>
+        <td align='center'>2023.9.9</td>
+    </tr>
+    <tr>
+        <td align='center'>第三周</td>
+        <td align='center'><a href="https://arxiv.org/abs/2309.02427">Cognitive Architectures for Language Agents</a></td>
+        <td align='center'><a href="https://arxiv.org/abs/2308.10144">ExpeL: LLM Agents Are Experiential Learners</a></td>
+        <td align='center'>2023.9.16</td>
+    </tr>
+    <tr>
+        <td align='center'>第四周</td>
+        <td align='center'><a href="https://arxiv.org/abs/2210.03629">ReAct: Synergizing Reasoning and Acting in Language Models</a></td>
+        <td align='center'><a href="https://arxiv.org/abs/2305.16291">VOYAGER: An Open-Ended Embodied Agent with Large Language Models</a></td>
+        <td align='center'>2023.9.23</td>
+    </tr>
+    <tr>
+        <td align='center'>第五周</td>
+        <td align='center'><a href="https://arxiv.org/abs/2309.07864">The Rise and Potential of Large Language Model Based Agents: A Survey ABCs</a></td>
+        <td align='center'><a href="https://github.com/Significant-Gravitas/AutoGPT">框架：AutoGPT</a></td>
+        <td align='center'>2023.10.1</td>
+    </tr>
+    <tr>
+        <td align='center'>第六周</td>
+        <td align='center'><a href="https://arxiv.org/abs/2309.15817">Identifying the Risks of LM Agents with an LM-Emulated Sandbox </a></td>
+        <td align='center'><a href="https://github.com/geekan/MetaGPT">框架：metaGPT</a></td>
+        <td align='center'>2023.10.8</td>
+    </tr>
+    <tr>
+        <td align='center'>第七周</td>
+        <td align='center'><a href="https://arxiv.org/abs/2303.11366">Reflexion: an autonomous agent with dynamic memory and self-reflection</a></td>
+        <td align='center'><a href="https://github.com/AntonOsika/gpt-engineer">框架：gpt-engineer</a></td>
+        <td align='center'>2023.10.15</td>
+    </tr>
+    <tr>
+        <td align='center'>第八周</td>
+        <td align='center'><a href="https://arxiv.org/abs/2310.16427">PromptAgent: Strategic Planning with Language Models Enables Expert-level Prompt Optimization </a></td>
+        <td align='center'><a href="https://github.com/microsoft/autogen">框架：autogen</a></td>
+        <td align='center'>2023.11.6</td>
+    </tr>
+    <tr>
+        <td align='center'>第九周</td>
+        <td align='center'><a href="https://arxiv.org/abs/2310.12931">Eureka: Human-Level Reward Design via Coding Large Language Models</a></td>
+        <td align='center'><a href="https://openreview.net/forum?id=PKsTHJXn4d">Understanding Your Agent: Leveraging Large Language Models for Behavior Explanation</a></td>
+        <td align='center'>2023.11.13</td>
+    </tr>
+</table>
+
+
+
+## 详细计划
+
 第一周：
 - A Survey on Large Language Model based Autonomous Agents
 - Generative Agents: Interactive Simulacra of Human Behavior
@@ -47,13 +116,17 @@ readpaper共读小组链接： [加入小组](https://readpaper.com/team/invite/
 - [autogen](https://github.com/microsoft/autogen)
 
 
-
+第九周
+- Eureka: Human-Level Reward Design via Coding Large Language Models
+- Understanding Your Agent: Leveraging Large Language Models for Behavior Explanation
 
 
 ## 更多资源：
 
 - [LLM-based Autonomous Agent](https://abyssinian-molybdenum-f76.notion.site/237e9f7515d543c0922c74f4c3012a77?v=0a309e53d6454afcbe7a5a7e169be0f9)
- 
+- [Awesome-Papers-Autonomous-Agent](https://github.com/lafmdp/Awesome-Papers-Autonomous-Agent)
+
+
 
 
 #### 观点
