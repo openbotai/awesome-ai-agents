@@ -16,7 +16,7 @@ readpaper共读小组链接： [加入小组](https://readpaper.com/team/invite/
 
 <table >
     <tr>
-        <td rowspan='2'align='center'>周 数</td>
+        <td rowspan='2'align='center'>起始周数</td>
         <td rowspan='2'align='center'>第一篇</td>        
         <td rowspan='2'align='center'>第二篇</td>
         <td rowspan='2'align='center'>截止时间</td>
