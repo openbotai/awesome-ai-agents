@@ -82,6 +82,12 @@ readpaper共读小组链接： [加入小组](https://readpaper.com/team/invite/
         <td align='center'><a href="https://arxiv.org/abs/2311.05997">JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models</a></td>
         <td align='center'>2023.11.20</td>
     </tr>
+    <tr>
+        <td align='center'>第十一周</td>
+        <td align='center'><a href="https://arxiv.org/abs/2311.10538">Testing Language Model Agents Safely in the Wild</a></td>
+        <td align='center'><a href="https://arxiv.org/abs/2311.07562">GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation</a></td>
+        <td align='center'>2023.11.27</td>
+    </tr>
 </table>
 
 
@@ -131,6 +137,10 @@ readpaper共读小组链接： [加入小组](https://readpaper.com/team/invite/
 - LLaVA-Plus: Learning to Use Tools for Creating Multimodal Agents
 - ARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models
 
+
+第十一周
+- Testing Language Model Agents Safely in the Wild
+- GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation
 
 ## 更多资源：
 
