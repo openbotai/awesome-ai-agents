@@ -88,6 +88,12 @@ readpaper共读小组链接： [加入小组](https://readpaper.com/team/invite/
         <td align='center'><a href="https://arxiv.org/abs/2311.07562">GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation</a></td>
         <td align='center'>2023.11.27</td>
     </tr>
+    <tr>
+        <td align='center'>第十二周</td>
+        <td align='center'><a href="https://arxiv.org/abs/2311.12871 ">An Embodied Generalist Agent in 3D World</a></td>
+        <td align='center'><a href="https://arxiv.org/abs/2311.05997">ProAgent: From Robotic Process Automation to Agentic Process Automation</a></td>
+        <td align='center'>2023.12.4</td>
+    </tr>
 </table>
 
 
@@ -141,6 +147,13 @@ readpaper共读小组链接： [加入小组](https://readpaper.com/team/invite/
 第十一周
 - Testing Language Model Agents Safely in the Wild
 - GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation
+
+
+
+第十二周
+- An Embodied Generalist Agent in 3D World
+- ProAgent: From Robotic Process Automation to Agentic Process Automation
+
 
 ## 更多资源：
 
