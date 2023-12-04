@@ -94,6 +94,12 @@ readpaper共读小组链接： [加入小组](https://readpaper.com/team/invite/
         <td align='center'><a href="https://arxiv.org/abs/2311.05997">ProAgent: From Robotic Process Automation to Agentic Process Automation</a></td>
         <td align='center'>2023.12.4</td>
     </tr>
+    <tr>
+        <td align='center'>第十三周</td>
+        <td align='center'><a href="https://arxiv.org/abs/2310.13227">ToolChain*: Efficient Action Space Navigation in Large Language Models with A* Search</a></td>
+        <td align='center'><a href="https://arxiv.org/abs/2311.17541">TaskWeaver: A Code-First Agent Framework</a></td>
+        <td align='center'>2023.12.11</td>
+    </tr>
 </table>
 
 
@@ -154,6 +160,10 @@ readpaper共读小组链接： [加入小组](https://readpaper.com/team/invite/
 - An Embodied Generalist Agent in 3D World
 - ProAgent: From Robotic Process Automation to Agentic Process Automation
 
+
+第十三周
+- ToolChain*: Efficient Action Space Navigation in Large Language Models with A* Search
+- TaskWeaver: A Code-First Agent Framework
 
 ## 更多资源：
 
