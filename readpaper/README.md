@@ -100,6 +100,12 @@ readpaper共读小组链接： [加入小组](https://readpaper.com/team/invite/
         <td align='center'><a href="https://arxiv.org/abs/2311.17541">TaskWeaver: A Code-First Agent Framework</a></td>
         <td align='center'>2023.12.11</td>
     </tr>
+    <tr>
+        <td align='center'>第十四周</td>
+        <td align='center'><a href="https://arxiv.org/abs/2312.03814">Pearl: A Production-ready Reinforcement Learning Agent</a></td>
+        <td align='center'><a href="https://arxiv.org/abs/2312.03664">Generative agent-based modeling with actions grounded in physical, social, or digital space using Concordia</a></td>
+        <td align='center'>2023.12.18</td>
+    </tr>
 </table>
 
 
@@ -165,12 +171,16 @@ readpaper共读小组链接： [加入小组](https://readpaper.com/team/invite/
 - ToolChain*: Efficient Action Space Navigation in Large Language Models with A* Search
 - TaskWeaver: A Code-First Agent Framework
 
+
+第十四周
+- Pearl: A Production-ready Reinforcement Learning Agent
+- Generative agent-based modeling with actions grounded in physical, social, or digital space using Concordia
+
 ## 更多资源：
+
 
 - [LLM-based Autonomous Agent](https://abyssinian-molybdenum-f76.notion.site/237e9f7515d543c0922c74f4c3012a77?v=0a309e53d6454afcbe7a5a7e169be0f9)
 - [Awesome-Papers-Autonomous-Agent](https://github.com/lafmdp/Awesome-Papers-Autonomous-Agent)
-
-
 
 
 #### 观点
