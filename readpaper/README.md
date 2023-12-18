@@ -106,7 +106,16 @@ readpaper共读小组链接： [加入小组](https://readpaper.com/team/invite/
         <td align='center'><a href="https://arxiv.org/abs/2312.03664">Generative agent-based modeling with actions grounded in physical, social, or digital space using Concordia</a></td>
         <td align='center'>2023.12.18</td>
     </tr>
+     <tr>
+        <td align='center'>第十五周</td>
+        <td align='center'><a href="https://arxiv.org/abs/2312.10003">ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent</a></td>
+        <td align='center'><a href="https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf">Practices for Governing Agentic AI Systems</a></td>
+        <td align='center'>2023.12.25</td>
+    </tr>
 </table>
+
+
+
 
 
 
@@ -175,6 +184,12 @@ readpaper共读小组链接： [加入小组](https://readpaper.com/team/invite/
 第十四周
 - Pearl: A Production-ready Reinforcement Learning Agent
 - Generative agent-based modeling with actions grounded in physical, social, or digital space using Concordia
+
+
+第十五周
+- ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent
+- Practices for Governing Agentic AI Systems
+
 
 ## 更多资源：
 
