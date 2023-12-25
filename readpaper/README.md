@@ -112,6 +112,12 @@ readpaper共读小组链接： [加入小组](https://readpaper.com/team/invite/
         <td align='center'><a href="https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf">Practices for Governing Agentic AI Systems</a></td>
         <td align='center'>2023.12.25</td>
     </tr>
+    <tr>
+        <td align='center'>第十六周</td>
+        <td align='center'><a href="https://arxiv.org/abs/2312.13771">AppAgent: Multimodal Agents as Smartphone Users </a></td>
+        <td align='center'><a href="https://github.com/mnotgod96/AppAgent">AppAgent</a></td>
+        <td align='center'>2024.1.1</td>
+    </tr>
 </table>
 
 
@@ -189,6 +195,11 @@ readpaper共读小组链接： [加入小组](https://readpaper.com/team/invite/
 第十五周
 - ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent
 - Practices for Governing Agentic AI Systems
+
+
+第十六周
+- AppAgent: Multimodal Agents as Smartphone Users
+- AppAgent
 
 
 ## 更多资源：
