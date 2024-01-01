@@ -118,11 +118,13 @@ readpaper共读小组链接： [加入小组](https://readpaper.com/team/invite/
         <td align='center'><a href="https://github.com/mnotgod96/AppAgent">AppAgent</a></td>
         <td align='center'>2024.1.1</td>
     </tr>
+    <tr>
+        <td align='center'>第十七周</td>
+        <td align='center'><a href="https://github.com/SciPhi-AI/agent-search">agent-search </a></td>
+        <td align='center'><a href="https://github.com/OpenBMB/ChatDev">ChatDev</a></td>
+        <td align='center'>2024.1.8</td>
+    </tr>
 </table>
-
-
-
-
 
 
 
@@ -201,6 +203,10 @@ readpaper共读小组链接： [加入小组](https://readpaper.com/team/invite/
 - AppAgent: Multimodal Agents as Smartphone Users
 - AppAgent
 
+
+第十七周
+- [agent-search](https://github.com/SciPhi-AI/agent-search)
+- [ChatDev](https://github.com/OpenBMB/ChatDev)
 
 ## 更多资源：
 
